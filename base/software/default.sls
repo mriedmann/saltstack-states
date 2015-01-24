@@ -4,3 +4,4 @@ software_default_pkgs:
       - sudo
       - vim-enhanced
       - rsyslog
+      - mosh

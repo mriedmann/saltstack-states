@@ -1,5 +1,6 @@
 base:
   '*':
+    - defaults
     - pki
     - users
     - salt.minion
